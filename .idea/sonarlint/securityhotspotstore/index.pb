@@ -15,3 +15,9 @@ Z
 *TodoAPP/src/main/java/app/entity/Todo.java,1\9\19fff9033d5b500e902e086538f4c4204964201c
 ^
 .TodoAPP/src/main/java/app/dao/TodoDaoImpl.java,0\2\020592991cc9e31136b59d358bc8bd97f8849ec6
+u
+ETodoAPP/src/main/java/app/exception/IndexCantBeNegativeException.java,7\9\79f78e93755d3dd6982ab049333edce59e1b79ef
+o
+?TodoAPP/src/main/java/app/exception/GlobalExceptionHandler.java,7\7\7733c8239bd4b76f1284a2c1112d2a3294c318a4
+f
+6TodoAPP/src/main/java/app/service/TodoServiceImpl.java,5\e\5e61fff020b82dc6f9a45e62b40ab35c7e852006

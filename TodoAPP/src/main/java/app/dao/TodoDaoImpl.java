@@ -1,6 +1,7 @@
 package app.dao;
 
 import app.entity.Todo;
+import app.exception.IndexCantBeNegativeException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
@@ -85,6 +86,9 @@ public class TodoDaoImpl implements TodoDao{
 
     @Override
     public void deleteTodo(Integer id) {
+        if(id < 0) {
+            throw new IndexCantBeNegativeException("Index can not be Negative");
+        }
         String query = "delete from todos where id = ?";
         jdbcTemplate.update(query, id);
 

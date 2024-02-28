@@ -1,13 +1,13 @@
 
-_
-java:S1192="IDefine a constant instead of duplicating this literal "priority" 3 times.(óÃ©â
-\
-java:S1192<"FDefine a constant instead of duplicating this literal "title" 3 times.(›Î£
-P	java:S1257"<This block of commented-out lines of code should be removed.(—Àã#
-H
-java:S11358"2Complete the task associated to this TODO comment.(Ş´…ã
-Q	java:S125G"<This block of commented-out lines of code should be removed.(Å“ˆ
-M
-java:S1135H"2Complete the task associated to this TODO comment.(ß ³ûşÿÿÿÿ
-M
-java:S1068"2Remove this unused "simpleJdbcCall" private field.(à§óèûÿÿÿÿ
+f
+java:S1192>"IDefine a constant instead of duplicating this literal "priority" 3 times.(óÃ©â8„²ÅôŞ1
+c
+java:S1192="FDefine a constant instead of duplicating this literal "title" 3 times.(›Î£8…²ÅôŞ1
+W	java:S1258"<This block of commented-out lines of code should be removed.(—Àã#8²²ÅôŞ1
+O
+java:S11359"2Complete the task associated to this TODO comment.(Ş´…ã8²²ÅôŞ1
+X	java:S125H"<This block of commented-out lines of code should be removed.(Å“ˆ8¸²ÅôŞ1
+T
+java:S1135I"2Complete the task associated to this TODO comment.(ß ³ûşÿÿÿÿ8¸²ÅôŞ1
+T
+java:S1068"2Remove this unused "simpleJdbcCall" private field.(à§óèûÿÿÿÿ8Å²ÅôŞ1
